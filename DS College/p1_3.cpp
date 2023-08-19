@@ -1,4 +1,3 @@
-
 /* 1.3 Write a program to read 10 integers in an array. Sort them out on the basis of number of 
 digits in each element. */
 #include<iostream>
